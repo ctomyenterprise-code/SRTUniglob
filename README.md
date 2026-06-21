@@ -29,4 +29,4 @@ Aplicación utilizando Firebase Realtime Database.
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/TU_USUARIO
+- GitHub: https://github.com/SRTUniglob
