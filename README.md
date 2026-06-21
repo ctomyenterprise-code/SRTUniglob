@@ -31,12 +31,30 @@ Aplicación utilizando Firebase Realtime Database.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STRUniglob&layout=compact)
 
 ## Tecnologías
+### 📱 Mobile
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
+
+### 🌐 Web
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql)
+
+### 💻 Desktop
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp)
 
 ## 📫 Contacto
 
