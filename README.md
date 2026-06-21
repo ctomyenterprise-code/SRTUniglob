@@ -26,6 +26,9 @@ Aplicación utilizando Firebase Realtime Database.
 
 ## 📊 Estadísticas
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=STRUniglob&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=STRUniglob&layout=compact)
 
 ## 📫 Contacto
 
