@@ -1,4 +1,4 @@
-# Hola 👋 Soy SRT Uniglob
+# Hola 👋 Soy STR Uniglob
 
 💻 Desarrollador de Software
 
