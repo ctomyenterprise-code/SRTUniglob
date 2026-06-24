@@ -26,8 +26,8 @@ background: #0d1117;
 }
 .btn {
   position: relative;
-  padding: 12px 28px;
   font-size: 16px;
+  padding: 10px;
   font-weight: 600;
   color: #ffffff;
   background-color: #ffffff;
@@ -52,7 +52,9 @@ background-color: #db3548a6;
   background-color: #8b5cf6;
   animation: dynamic-pulse 2s infinite;
 }
-
+@media screen and (max-width:700px) {
+    
+}
 @keyframes dynamic-pulse {
   0% {
     box-shadow: 0 0 0 0 rgba(139, 92, 246, 0.7);
