@@ -52,6 +52,9 @@ background-color: #db3548a6;
   background-color: #8b5cf6;
   animation: dynamic-pulse 2s infinite;
 }
+.content-contador{
+  margin-top: 20px;
+}
 @media screen and (max-width:700px) {
     
 }
